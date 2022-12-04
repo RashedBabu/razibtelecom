@@ -1,0 +1,182 @@
+.signup-container.signup-container {
+  background-image: url("./images/img-signup-bkg.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  opacity: 0.8;
+}
+
+.signin-container {
+  background-image: url("./images/img-signin-bkg.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  opacity: 0.8;
+}
+.width {
+  width: 100%;
+}
+.full_display {
+  width: 100%;
+  height: 100vh;
+  background-color: #000;
+}
+.container {
+  margin: 0 60px;
+  padding: 0px;
+}
+.nav-css {
+  margin-right: 170px;
+  font-size: 18px;
+  font-weight: 500;
+}
+/* .logout {
+  margin-right: 20px;
+} */
+
+.nav-css:focus {
+  color: green !important;
+}
+.add-user {
+  margin-top: 90px;
+}
+/* .add-ribon {
+  margin-top: 80px;
+} */
+.form_margin {
+  margin-bottom: 20px;
+  width: 80%;
+}
+.form_input {
+  padding: 20px 10px;
+  border-radius: 13px;
+  font-size: 16px;
+  font-weight: 500;
+}
+.form-control:focus {
+  box-shadow: none;
+  border: 1px solid rgba(7, 7, 163, 0.623);
+  -webkit-box-shadow: none;
+}
+.form_inputt:focus {
+  outline: none;
+}
+
+.edit-width {
+  width: 20%;
+}
+.input-group-text {
+  width: 100%;
+}
+.card_table {
+  background-color: whitesmoke;
+  border-radius: 10px;
+}
+.row {
+  flex-wrap: nowrap;
+}
+
+.card_create_dis {
+  position: sticky;
+  top: 70px;
+  margin-left: 60px;
+  background-color: whitesmoke;
+  border-radius: 10px;
+  width: 300px;
+}
+.card_create {
+  position: sticky;
+  top: 70px;
+  margin-left: 80px;
+  background-color: whitesmoke;
+  border-radius: 10px;
+}
+.table_m {
+  margin-top: 70px;
+  width: 1350px;
+}
+.table_body {
+  background-color: #fff;
+  font-weight: 600;
+  font-size: 13px;
+}
+.table_text {
+  background: rgba(178, 34, 34, 0.418);
+  margin-bottom: 15px;
+  border-radius: 20px;
+  font-weight: 700;
+  padding: 10px 0;
+}
+.table th {
+  position: sticky;
+  background: rgba(0, 0, 0, 0.897);
+  top: 0;
+}
+
+.table_header {
+  background-color: rgba(0, 0, 0, 0.897);
+  color: white;
+}
+.th_body {
+  background: rgba(29, 29, 2, 0.171);
+  font-size: 12px;
+  font-weight: 500;
+}
+.th_date {
+  background: rgba(20, 19, 19, 0.295);
+  font-size: 12px;
+  font-weight: 500;
+}
+.table-fixed-dis {
+  height: 650px;
+  display: block;
+  overflow-x: scroll;
+}
+
+.table-fixed {
+  height: 430px;
+  display: block;
+  overflow-x: scroll;
+}
+.battery {
+  background: rgba(238, 151, 151, 0.418);
+}
+.touch {
+  background: rgba(22, 77, 228, 0.418);
+}
+.td_action {
+  display: flex;
+  opacity: 0;
+}
+.td_action:hover {
+  opacity: 1;
+}
+.th_color {
+  background: rgba(20, 19, 19, 0.295);
+  font-size: 14px;
+  font-weight: 700;
+}
+.t_qua {
+  width: 80px;
+}
+.price_1 {
+  word-break: break-word;
+}
+.th_text {
+  font-size: 14px;
+  font-weight: 700;
+}
+
+.td_color {
+  background: rgba(29, 29, 2, 0.171);
+  font-size: 14px;
+  font-weight: 700;
+}
+
+.editDisplay {
+  margin: auto;
+  margin-top: 70px;
+}
+
+
+
